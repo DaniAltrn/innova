@@ -1,0 +1,12 @@
+/* Content */
+.display_inlineBlock { display: inline-block; }
+.width_50PC { width: 49.8%; display: inline-block; margin-left: 0; margin-right: 0; }
+
+/* Content - Block */
+.content_block_separator { margin-top: 100px; }
+
+/* Content - Paragraph */
+.content_paragraph_separator { margin-top: 20px; }
+
+/* Style text */
+.text_center { text-align: center; }
